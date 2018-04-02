@@ -1,4 +1,4 @@
-# infinispan.dump 
+# infinispan-dump 
 
 Periodically dump contents of Infinispan cache
 
